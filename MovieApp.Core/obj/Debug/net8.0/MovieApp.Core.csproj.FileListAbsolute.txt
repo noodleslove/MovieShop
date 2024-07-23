@@ -1,0 +1,14 @@
+/Users/eddie/RiderProjects/MovieApp/MovieApp.Core/bin/Debug/net8.0/MovieApp.Core.deps.json
+/Users/eddie/RiderProjects/MovieApp/MovieApp.Core/bin/Debug/net8.0/MovieApp.Core.runtimeconfig.json
+/Users/eddie/RiderProjects/MovieApp/MovieApp.Core/bin/Debug/net8.0/MovieApp.Core.dll
+/Users/eddie/RiderProjects/MovieApp/MovieApp.Core/bin/Debug/net8.0/MovieApp.Core.pdb
+/Users/eddie/RiderProjects/MovieApp/MovieApp.Core/obj/Debug/net8.0/MovieApp.Core.csproj.AssemblyReference.cache
+/Users/eddie/RiderProjects/MovieApp/MovieApp.Core/obj/Debug/net8.0/MovieApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eddie/RiderProjects/MovieApp/MovieApp.Core/obj/Debug/net8.0/MovieApp.Core.AssemblyInfoInputs.cache
+/Users/eddie/RiderProjects/MovieApp/MovieApp.Core/obj/Debug/net8.0/MovieApp.Core.AssemblyInfo.cs
+/Users/eddie/RiderProjects/MovieApp/MovieApp.Core/obj/Debug/net8.0/MovieApp.Core.csproj.CoreCompileInputs.cache
+/Users/eddie/RiderProjects/MovieApp/MovieApp.Core/obj/Debug/net8.0/MovieApp.Core.dll
+/Users/eddie/RiderProjects/MovieApp/MovieApp.Core/obj/Debug/net8.0/refint/MovieApp.Core.dll
+/Users/eddie/RiderProjects/MovieApp/MovieApp.Core/obj/Debug/net8.0/MovieApp.Core.pdb
+/Users/eddie/RiderProjects/MovieApp/MovieApp.Core/obj/Debug/net8.0/MovieApp.Core.genruntimeconfig.cache
+/Users/eddie/RiderProjects/MovieApp/MovieApp.Core/obj/Debug/net8.0/ref/MovieApp.Core.dll

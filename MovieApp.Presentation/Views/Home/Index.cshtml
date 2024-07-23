@@ -1,0 +1,12 @@
+﻿@model IEnumerable<MovieResponseModel>;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    @foreach (var movie in Model)
+    {
+        <partial name="_MovieCard" model="@movie"/>
+    }
+</div>

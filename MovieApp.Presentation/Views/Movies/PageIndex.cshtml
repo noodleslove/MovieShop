@@ -1,0 +1,24 @@
+@model PaginatedResultSet<MovieResponseModel>
+
+<div class="row">
+    @foreach (var movie in Model?.Data)
+    {
+        <partial name="../Home/_MovieCard" model="@movie"/>
+    }
+</div>
+
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+
+<a asp-action="Genre"
+   asp-route-pageIndex="@(Model.PageIndex - 1)"
+   class="btn btn-primary @prevDisabled">
+    Previous
+</a>
+<a asp-action="Genre"
+   asp-route-pageIndex="@(Model.PageIndex + 1)"
+   class="btn btn-primary @nextDisabled">
+    Next
+</a>

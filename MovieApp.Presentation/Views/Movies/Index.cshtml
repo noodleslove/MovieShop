@@ -1,0 +1,11 @@
+@model IEnumerable<MovieResponseModel>
+
+<div class="container">
+    <h1>Popular Movies</h1>
+    <div class="row">
+        @foreach (var movie in Model)
+        {
+            <partial name="../Home/_MovieCard" model="@movie"/>
+        }
+    </div>
+</div>

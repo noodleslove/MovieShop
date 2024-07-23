@@ -1,0 +1,5 @@
+/Users/eddie/RiderProjects/Movie/Movie.Infrastructure/obj/Debug/net8.0/Movie.Infrastructure.csproj.AssemblyReference.cache
+/Users/eddie/RiderProjects/Movie/Movie.Infrastructure/obj/Debug/net8.0/Movie.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eddie/RiderProjects/Movie/Movie.Infrastructure/obj/Debug/net8.0/Movie.Infrastructure.AssemblyInfoInputs.cache
+/Users/eddie/RiderProjects/Movie/Movie.Infrastructure/obj/Debug/net8.0/Movie.Infrastructure.AssemblyInfo.cs
+/Users/eddie/RiderProjects/Movie/Movie.Infrastructure/obj/Debug/net8.0/Movie.Infrastructure.csproj.CoreCompileInputs.cache
